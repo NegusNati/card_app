@@ -1,16 +1,5 @@
-# mi_card
+# MY_CARD_APP
 
-A new Flutter project.
+A simple Flutter project, that gives personal information.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Screenshot_20220719-110035 1](https://user-images.githubusercontent.com/84500378/179699492-96cb74fd-7623-4b5e-960d-90be4342a6de.jpg)
